@@ -12,6 +12,7 @@ namespace NguyenThiThuong._31231025355
         public static void Main()
         {
             Question_02();
+            Console.ReadKey();
         }
      
         public static void Question_01()

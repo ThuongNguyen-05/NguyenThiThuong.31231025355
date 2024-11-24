@@ -18,6 +18,7 @@ namespace NguyenThiThuong._31231025355
         public static void Main()
         {
             Question08_P22();
+            Console.ReadKey();
         }
         public static void Question02_Page09()
         {
